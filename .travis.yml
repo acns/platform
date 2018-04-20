@@ -6,6 +6,8 @@ dist: precise
 language: php
 php:
 - '7.0'
+- '7.0.28'
+- '7.0.25'
 - '7.1'
 - 'nightly'
 env:
